@@ -65,7 +65,7 @@ function App() {
           },
           {
             name: "Ignore",
-            handler: () => loadDataFromEndpoint("/digipet/ignore"),
+            handler: () => loadDataFromEndpoint("/digipet/rehome"),
           },
           {
             name: "Rehome",
